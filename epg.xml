@@ -68,42 +68,6 @@
     <display-name>sixx.de</display-name>
     <icon src="https://images.open-epg.com/x475.png" />
   </channel>
-  <programme start="20261115070000 +0000" stop="20261115105959 +0000" channel="Antena1.ro">
-    <title>Neatza de weekend</title>
-    <desc>Alături de Nicolai Tand, Ramona, Florin Ristei și alte vedete surpriză, ai 4 ore de bună dispoziție în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115131459 +0000" channel="Antena1.ro">
-    <title>Observator</title>
-    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
-  </programme>
-  <programme start="20261115131500 +0000" stop="20261115145959 +0000" channel="Antena1.ro">
-    <title>Drumul Matasii - Jurnal de calatorie</title>
-  </programme>
-  <programme start="20261115150000 +0000" stop="20261115165959 +0000" channel="Antena1.ro">
-    <title>Furnicuțele</title>
-    <desc>Formatul o va avea la cârmă pe una dintre cele mai cunoscute realizatoare din țară, Denise Rifai și pe două personaje extrem de curioase, pline de veselie și stare de bine – furnicuțele Scamă și Blană! Cele două vor deveni vocea oamenilor de acasă, adresând întrebări pe care, cu siguranță, cei care vor urmări le au, dar pe care nu au ocazia să le adreseze. Vor fi invitați din domenii diverse, de la politică la muzică, de la actorie la specialiști din domeniul media, de la antreprenori la creatori de conținut sau de la sportivi la comedianți. Toți vor avea parte de surprize la fiecare pas: fie că este vorba despre întrebări din carieră, fie că în platou vor apărea oameni din viața lor, fie că vor fi supuși unor provocări pline de umor... și stare de bine!</desc>
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115175959 +0000" channel="Antena1.ro">
-    <title>Observator</title>
-    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115212959 +0000" channel="Antena1.ro">
-    <title>Chefi la cuțite</title>
-    <desc>Trei chefi de top, aflați în competiție pentru a găsi următoarea generație de talente desăvârșite în domeniul culinar, jurizează cele mai gustoase și originale rețete, în timp ce își ascut cuțitele pentru o confruntare culinară de-a dreptul savuroasă.</desc>
-  </programme>
-  <programme start="20261115213000 +0000" stop="20261116012959 +0000" channel="Antena1.ro">
-    <title>Asia Express - Drumul Mătăsii</title>
-    <sub-title>(r finala)</sub-title>
-    <desc>Asia Express pornește pe o rută epică ce îi va purta pe concurenți prin Uzbekistan și China, într-o aventură care depășește ideea de distanțe și probe. E o călătorie despre întâlnirea a două lumi cu diferențe culturale uriașe, despre oameni și obiceiuri descoperite dincolo de clișeele turistice. România devine astfel a doua țară din lume care va explora China prin intermediul celor nouă echipe: Cheloo &amp; Mihai Ban, Maurice Munteanu &amp; Connie Preda, Mirela Vaida &amp; Oana Tomoiagă, Radu Isac &amp; Eduard Hordilă, Gabi Torje &amp; Alin Alexuc Ciurariu, Loredana Chivu &amp; Anamaria Mocanu, Valerie Lungu &amp; Alex Gâlcă, Mirela Retegan &amp; Maya, și What’s UP &amp; Miky. Provocările sezonului 9 vor fi mai neașteptate ca niciodată. Drumul Mătăsii nu a legat doar continente, ci a schimbat însăși esența călătoriei umane, lăsând o moștenire profundă, iar această experiență este exact promisiunea Asia Express: o aventură care îți schimbă perspectiva și după care nu mai ești niciodată la fel.</desc>
-  </programme>
-  <programme start="20261116013000 +0000" stop="20261116035959 +0000" channel="Antena1.ro">
-    <title>Ana, mi-ai fost scrisă în ADN</title>
-    <desc>Povestea Anei, o tânără ambiţioasă şi determinată, abandonată la naştere, care în urma unui test genetic îşi găseşte mama chiar în persoana celei la care se aştepta cel mai puţin.</desc>
-  </programme>
-  <programme start="20261116040000 +0000" stop="20261116055959 +0000" channel="Antena1.ro">
-    <title>Observator</title>
-    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
-  </programme>
   <programme start="20261116060000 +0000" stop="20261116095959 +0000" channel="Antena1.ro">
     <title>Neatza cu Răzvan şi Dani</title>
     <desc>Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
@@ -155,6 +119,58 @@
     <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
   </programme>
   <programme start="20261117060000 +0000" stop="20261117095959 +0000" channel="Antena1.ro">
+    <title>Neatza cu Răzvan şi Dani</title>
+    <desc>Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
+  </programme>
+  <programme start="20261117100000 +0000" stop="20261117115959 +0000" channel="Antena1.ro">
+    <title>Observator</title>
+    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20261117120000 +0000" stop="20261117135959 +0000" channel="Antena1.ro">
+    <title>Mireasa – Regatul inimii</title>
+  </programme>
+  <programme start="20261117140000 +0000" stop="20261117145959 +0000" channel="Antena1.ro">
+    <title>Observator</title>
+    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20261117150000 +0000" stop="20261117165959 +0000" channel="Antena1.ro">
+    <title>Furnicuțele</title>
+    <desc>Formatul o va avea la cârmă pe una dintre cele mai cunoscute realizatoare din țară, Denise Rifai și pe două personaje extrem de curioase, pline de veselie și stare de bine – furnicuțele Scamă și Blană! Cele două vor deveni vocea oamenilor de acasă, adresând întrebări pe care, cu siguranță, cei care vor urmări le au, dar pe care nu au ocazia să le adreseze. Vor fi invitați din domenii diverse, de la politică la muzică, de la actorie la specialiști din domeniul media, de la antreprenori la creatori de conținut sau de la sportivi la comedianți. Toți vor avea parte de surprize la fiecare pas: fie că este vorba despre întrebări din carieră, fie că în platou vor apărea oameni din viața lor, fie că vor fi supuși unor provocări pline de umor... și stare de bine!</desc>
+  </programme>
+  <programme start="20261117170000 +0000" stop="20261117185959 +0000" channel="Antena1.ro">
+    <title>Observator</title>
+    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20261117190000 +0000" stop="20261117194459 +0000" channel="Antena1.ro">
+    <title>Studio de meci</title>
+  </programme>
+  <programme start="20261117194500 +0000" stop="20261117215959 +0000" channel="Antena1.ro">
+    <title>Fotbal: Bosnia Herzegovina vs Romania</title>
+  </programme>
+  <programme start="20261117220000 +0000" stop="20261117222959 +0000" channel="Antena1.ro">
+    <title>Studio de meci</title>
+  </programme>
+  <programme start="20261117223000 +0000" stop="20261117231459 +0000" channel="Antena1.ro">
+    <title>Observator</title>
+    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20261117231500 +0000" stop="20261118012959 +0000" channel="Antena1.ro">
+    <title>Temptation Island - Insula iubirii</title>
+    <desc>Cupluri ce au relaţii de lungă durată, însă nu au decis încă să facă marele pas îşi vor putea testa relaţia prin intermediul acestui reality-show şi vor afla astfel dacă cel/cea alături de care au petrecut atâţia ani este cu adevărat jumătatea lor.</desc>
+  </programme>
+  <programme start="20261118013000 +0000" stop="20261118021459 +0000" channel="Antena1.ro">
+    <title>Medicool</title>
+    <desc>MediCOOL își propune să aducă mai aproape oamenii de medici, pentru a putea primi sfaturi de specialitate. Gazda emisiunii alături de coprezentatorii săi, dar şi de invitaţii lor, medici din diverse specializări, discută o serie de subiecte legate de sănătate şi răspund întrebărilor venite de la telespectatori.</desc>
+  </programme>
+  <programme start="20261118021500 +0000" stop="20261118035959 +0000" channel="Antena1.ro">
+    <title>Furnicuțele</title>
+    <desc>Formatul o va avea la cârmă pe una dintre cele mai cunoscute realizatoare din țară, Denise Rifai și pe două personaje extrem de curioase, pline de veselie și stare de bine – furnicuțele Scamă și Blană! Cele două vor deveni vocea oamenilor de acasă, adresând întrebări pe care, cu siguranță, cei care vor urmări le au, dar pe care nu au ocazia să le adreseze. Vor fi invitați din domenii diverse, de la politică la muzică, de la actorie la specialiști din domeniul media, de la antreprenori la creatori de conținut sau de la sportivi la comedianți. Toți vor avea parte de surprize la fiecare pas: fie că este vorba despre întrebări din carieră, fie că în platou vor apărea oameni din viața lor, fie că vor fi supuși unor provocări pline de umor... și stare de bine!</desc>
+  </programme>
+  <programme start="20261118040000 +0000" stop="20261118055959 +0000" channel="Antena1.ro">
+    <title>Observator</title>
+    <desc>Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20261118060000 +0000" stop="20261118095959 +0000" channel="Antena1.ro">
     <title>Neatza cu Răzvan şi Dani</title>
     <desc>Emisiunea în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
   </programme>
@@ -1015,59 +1031,6 @@
     <desc>Die Lehrer bitten um neues Schulmaterial. Gregory verschönert sein Klassenzimmer.</desc>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20261115060000 +0000" stop="20261115074959 +0000" channel="Digi4K.ro">
-    <title>Real Madrid vs Real Sociedad</title>
-  </programme>
-  <programme start="20261115075000 +0000" stop="20261115081459 +0000" channel="Digi4K.ro">
-    <title>Casă pe malul lacului</title>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-  </programme>
-  <programme start="20261115081500 +0000" stop="20261115083959 +0000" channel="Digi4K.ro">
-    <title>Casă pe malul lacului</title>
-    <episode-num system="xmltv_ns">3.2.</episode-num>
-  </programme>
-  <programme start="20261115084000 +0000" stop="20261115093459 +0000" channel="Digi4K.ro">
-    <title>Arome din Monaco</title>
-  </programme>
-  <programme start="20261115093500 +0000" stop="20261115095959 +0000" channel="Digi4K.ro">
-    <title>Dincolo de limite</title>
-    <episode-num system="xmltv_ns">.10.</episode-num>
-  </programme>
-  <programme start="20261115100000 +0000" stop="20261115102459 +0000" channel="Digi4K.ro">
-    <title>Dincolo de limite</title>
-    <episode-num system="xmltv_ns">.11.</episode-num>
-  </programme>
-  <programme start="20261115102500 +0000" stop="20261115111459 +0000" channel="Digi4K.ro">
-    <title>Misterele râului Mekong</title>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20261115111500 +0000" stop="20261115115959 +0000" channel="Digi4K.ro">
-    <title>Femeile în lumea bărbaţilor</title>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20261115120000 +0000" stop="20261115125959 +0000" channel="Digi4K.ro">
-    <title>Adâncurile Americii de Nord</title>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20261115130000 +0000" stop="20261115151459 +0000" channel="Digi4K.ro">
-    <title>Elche vs Celta</title>
-  </programme>
-  <programme start="20261115151500 +0000" stop="20261115172959 +0000" channel="Digi4K.ro">
-    <title>Real Sociedad vs Deportivo</title>
-  </programme>
-  <programme start="20261115173000 +0000" stop="20261115193459 +0000" channel="Digi4K.ro">
-    <title>Betis vs Osasuna</title>
-  </programme>
-  <programme start="20261115193500 +0000" stop="20261115195959 +0000" channel="Digi4K.ro">
-    <title>Jocul</title>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20261115200000 +0000" stop="20261115220459 +0000" channel="Digi4K.ro">
-    <title>Racing vs Valencia</title>
-  </programme>
-  <programme start="20261115220500 +0000" stop="20261116055959 +0000" channel="Digi4K.ro">
-    <title>Muzică</title>
-  </programme>
   <programme start="20261116060000 +0000" stop="20261116074459 +0000" channel="Digi4K.ro">
     <title>Villarreal vs Betis</title>
   </programme>
@@ -1145,62 +1108,76 @@
   <programme start="20261117060000 +0000" stop="20261117075959 +0000" channel="Digi4K.ro">
     <title>Real Madrid vs Rayo</title>
   </programme>
-  <programme start="20261115050000 +0000" stop="20261115055959 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
+  <programme start="20261117080000 +0000" stop="20261117082959 +0000" channel="Digi4K.ro">
+    <title>Bucătăria mult visată</title>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20261115060000 +0000" stop="20261115072959 +0000" channel="Eurosport4K.ro">
-    <title>Anduranță auto: FIA WEC - 6 Ore de la Barcelona</title>
+  <programme start="20261117083000 +0000" stop="20261117085959 +0000" channel="Digi4K.ro">
+    <title>Bucătăria mult visată</title>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20261115073000 +0000" stop="20261115084459 +0000" channel="Eurosport4K.ro">
-    <title>Snooker: Openul Irlandei de Nord - Finala</title>
+  <programme start="20261117090000 +0000" stop="20261117095959 +0000" channel="Digi4K.ro">
+    <title>Arome din Monaco</title>
   </programme>
-  <programme start="20261115084500 +0000" stop="20261115102959 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Masculin</title>
+  <programme start="20261117100000 +0000" stop="20261117105959 +0000" channel="Digi4K.ro">
+    <title>Salvatorii</title>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20261115103000 +0000" stop="20261115105959 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
+  <programme start="20261117110000 +0000" stop="20261117112959 +0000" channel="Digi4K.ro">
+    <title>Planeta, ca o junglă</title>
+    <episode-num system="xmltv_ns">.11.</episode-num>
   </programme>
-  <programme start="20261115110000 +0000" stop="20261115114459 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
+  <programme start="20261117113000 +0000" stop="20261117115959 +0000" channel="Digi4K.ro">
+    <title>Planeta, ca o junglă</title>
+    <episode-num system="xmltv_ns">.12.</episode-num>
   </programme>
-  <programme start="20261115114500 +0000" stop="20261115125959 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Masculin</title>
+  <programme start="20261117120000 +0000" stop="20261117125959 +0000" channel="Digi4K.ro">
+    <title>Sălbăticia Americii Latine</title>
+    <episode-num system="xmltv_ns">.7.</episode-num>
   </programme>
-  <programme start="20261115130000 +0000" stop="20261115155959 +0000" channel="Eurosport4K.ro">
-    <title>Powerlifting: Campionatul Mondial, echipat - Istanbul</title>
+  <programme start="20261117130000 +0000" stop="20261117135959 +0000" channel="Digi4K.ro">
+    <title>Sălbăticia Americii Latine</title>
+    <episode-num system="xmltv_ns">.8.</episode-num>
   </programme>
-  <programme start="20261115160000 +0000" stop="20261115165959 +0000" channel="Eurosport4K.ro">
-    <title>Snooker: Openul Irlandei de Nord - Finala</title>
+  <programme start="20261117140000 +0000" stop="20261117155959 +0000" channel="Digi4K.ro">
+    <title>Sevilla vs Valencia</title>
   </programme>
-  <programme start="20261115170000 +0000" stop="20261115175959 +0000" channel="Eurosport4K.ro">
-    <title>Patinaj artistic: Marele Premiu - SUA - Masculin</title>
+  <programme start="20261117160000 +0000" stop="20261117165959 +0000" channel="Digi4K.ro">
+    <title>O planetă în evoluție</title>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20261115180000 +0000" stop="20261115190959 +0000" channel="Eurosport4K.ro">
-    <title>Patinaj artistic: Marele Premiu - SUA - Perechi</title>
+  <programme start="20261117170000 +0000" stop="20261117172959 +0000" channel="Digi4K.ro">
+    <title>Bucătăria mult visată</title>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20261115191000 +0000" stop="20261115203959 +0000" channel="Eurosport4K.ro">
-    <title>Patinaj artistic: Marele Premiu - SUA - Dans</title>
+  <programme start="20261117173000 +0000" stop="20261117175959 +0000" channel="Digi4K.ro">
+    <title>Bucătăria mult visată</title>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
-  <programme start="20261115204000 +0000" stop="20261115210459 +0000" channel="Eurosport4K.ro">
-    <title>Patinaj artistic: Marele Premiu - SUA - Masculin</title>
+  <programme start="20261117180000 +0000" stop="20261117185959 +0000" channel="Digi4K.ro">
+    <title>Arome din Peloponez</title>
   </programme>
-  <programme start="20261115210500 +0000" stop="20261115224959 +0000" channel="Eurosport4K.ro">
-    <title>Patinaj artistic: Marele Premiu - SUA - Feminin</title>
+  <programme start="20261117190000 +0000" stop="20261117192959 +0000" channel="Digi4K.ro">
+    <title>Planeta, ca o junglă</title>
+    <episode-num system="xmltv_ns">.13.</episode-num>
   </programme>
-  <programme start="20261115225000 +0000" stop="20261115235959 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
+  <programme start="20261117193000 +0000" stop="20261117195959 +0000" channel="Digi4K.ro">
+    <title>Planeta, ca o junglă</title>
+    <episode-num system="xmltv_ns">.14.</episode-num>
   </programme>
-  <programme start="20261116000000 +0000" stop="20261116005959 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Masculin</title>
+  <programme start="20261117200000 +0000" stop="20261117205959 +0000" channel="Digi4K.ro">
+    <title>Salvatorii</title>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20261116010000 +0000" stop="20261116015959 +0000" channel="Eurosport4K.ro">
-    <title>JOCURILE OLIMPICE Gazda Jocurilor Olimpice : Galeria Vedetelor Milano Cortina 2026</title>
+  <programme start="20261117210000 +0000" stop="20261117215959 +0000" channel="Digi4K.ro">
+    <title>Femei în spionaj</title>
+    <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20261116020000 +0000" stop="20261116035959 +0000" channel="Eurosport4K.ro">
-    <title>Snooker: Campionatul Mondial - Finala</title>
+  <programme start="20261117220000 +0000" stop="20261118055959 +0000" channel="Digi4K.ro">
+    <title>Muzică</title>
   </programme>
-  <programme start="20261116040000 +0000" stop="20261116045959 +0000" channel="Eurosport4K.ro">
-    <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
+  <programme start="20261118060000 +0000" stop="20261118075959 +0000" channel="Digi4K.ro">
+    <title>Sevilla vs Valencia</title>
   </programme>
   <programme start="20261116050000 +0000" stop="20261116055959 +0000" channel="Eurosport4K.ro">
     <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
@@ -1270,6 +1247,66 @@
   </programme>
   <programme start="20261117060000 +0000" stop="20261117072959 +0000" channel="Eurosport4K.ro">
     <title>Snooker: Openul Shenzhen - Finala</title>
+  </programme>
+  <programme start="20261117073000 +0000" stop="20261117081459 +0000" channel="Eurosport4K.ro">
+    <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
+  </programme>
+  <programme start="20261117081500 +0000" stop="20261117085959 +0000" channel="Eurosport4K.ro">
+    <title>Schi alpin: Cupa Mondială - Levi - Slalom Feminin</title>
+  </programme>
+  <programme start="20261117090000 +0000" stop="20261117105959 +0000" channel="Eurosport4K.ro">
+    <title>Snooker: Openul Shenzhen - Finala</title>
+  </programme>
+  <programme start="20261117110000 +0000" stop="20261117115959 +0000" channel="Eurosport4K.ro">
+    <title>Sărituri cu schiurile: Cupa Mondială Turneul celor patru trambuline - Oberstdorf - Masculin HS 137</title>
+  </programme>
+  <programme start="20261117120000 +0000" stop="20261117125959 +0000" channel="Eurosport4K.ro">
+    <title>Sărituri cu schiurile: Cupa Mondială Turneul celor patru trambuline - Garmisch Partenkirchen - Masculin HS 142</title>
+  </programme>
+  <programme start="20261117130000 +0000" stop="20261117135959 +0000" channel="Eurosport4K.ro">
+    <title>Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin</title>
+  </programme>
+  <programme start="20261117140000 +0000" stop="20261117155959 +0000" channel="Eurosport4K.ro">
+    <title>Snooker: Openul Irlandei de Nord - Finala</title>
+  </programme>
+  <programme start="20261117160000 +0000" stop="20261117165959 +0000" channel="Eurosport4K.ro">
+    <title>Sărituri cu schiurile: Cupa Mondială Turneul celor patru trambuline - Garmisch Partenkirchen - Masculin HS 142</title>
+  </programme>
+  <programme start="20261117170000 +0000" stop="20261117172959 +0000" channel="Eurosport4K.ro">
+    <title>Triatlon: Circuitul T100 - Dubai</title>
+  </programme>
+  <programme start="20261117173000 +0000" stop="20261117175959 +0000" channel="Eurosport4K.ro">
+    <title>Iahting : Spiritul iahtingului</title>
+  </programme>
+  <programme start="20261117180000 +0000" stop="20261117185959 +0000" channel="Eurosport4K.ro">
+    <title>Alergări montane Seria Mondială GT : Retrospectiva sezonului</title>
+  </programme>
+  <programme start="20261117190000 +0000" stop="20261117205959 +0000" channel="Eurosport4K.ro">
+    <title>Snooker: Openul Irlandei de Nord - Finala</title>
+  </programme>
+  <programme start="20261117210000 +0000" stop="20261117215959 +0000" channel="Eurosport4K.ro">
+    <title>Sărituri cu schiurile: Cupa Mondială Turneul celor patru trambuline - Oberstdorf - Masculin HS 137</title>
+  </programme>
+  <programme start="20261117220000 +0000" stop="20261117225959 +0000" channel="Eurosport4K.ro">
+    <title>Sărituri cu schiurile: Cupa Mondială Turneul celor patru trambuline - Garmisch Partenkirchen - Masculin HS 142</title>
+  </programme>
+  <programme start="20261117230000 +0000" stop="20261118002959 +0000" channel="Eurosport4K.ro">
+    <title>Snooker: Openul Irlandei de Nord - Finala</title>
+  </programme>
+  <programme start="20261118003000 +0000" stop="20261118015959 +0000" channel="Eurosport4K.ro">
+    <title>Sărituri cu schiurile: Cupa Mondială Turneul celor patru trambuline - Garmisch Partenkirchen - Masculin HS 142</title>
+  </programme>
+  <programme start="20261118020000 +0000" stop="20261118035959 +0000" channel="Eurosport4K.ro">
+    <title>Snooker: Openul Irlandei de Nord - Finala</title>
+  </programme>
+  <programme start="20261118040000 +0000" stop="20261118045959 +0000" channel="Eurosport4K.ro">
+    <title>Schi alpin: Cupa Mondială - Sölden - Slalom uriaș Feminin</title>
+  </programme>
+  <programme start="20261118050000 +0000" stop="20261118055959 +0000" channel="Eurosport4K.ro">
+    <title>JOCURILE OLIMPICE Gazda Jocurilor Olimpice : Galeria Vedetelor Milano Cortina 2026</title>
+  </programme>
+  <programme start="20261118060000 +0000" stop="20261118072959 +0000" channel="Eurosport4K.ro">
+    <title>Snooker: Openul Irlandei de Nord - Finala</title>
   </programme>
   <programme start="20261114084400 +0000" stop="20261114094000 +0000" channel="KabelEins.de">
     <title>The Mentalist</title>
@@ -1971,165 +2008,6 @@
     <title>Unerklärliche Phänomene - Ancient Aliens</title>
     <desc>S7 E7 — InsektenAuf der Erde existieren rund 10 Trillionen Insekten. Sie bevölkern den Planeten seit Urzeiten. Viele Kulturen achten, fürchten oder verehren sie als Götter. Möglicherweise ist der Grund dafür, dass sie eine Verbindung zu außerirdischen Wesen darstellen? Auch die in der Offenbarung des Johannes beschriebenen Heuschrecken könnten eine Waffe fremder Lebensformen gewesen sein. Einige Wissenschaftler untersuchen, ob es eine Verbindung zwischen Insekten und außerirdischen Lebensformen gibt.</desc>
   </programme>
-  <programme start="20261115050000 +0000" stop="20261115052459 +0000" channel="LoveNature.ro">
-    <title>Dresorii de șerpi din Australia: căutări dificile</title>
-    <sub-title>Invadarea caselor</sub-title>
-    <desc>Simte pericolul de pe o proprietate cu Mick și Adele, care înfruntă un șarpe furios. Fii atent la Jess și Dan care extrag un piton dintr-un loc de joacă și vezi cum un piton vânător de găini îi strivește mâna lui Liv în timpul unei salvări grele.</desc>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20261115052500 +0000" stop="20261115061959 +0000" channel="LoveNature.ro">
-    <title>Călătoria vieții</title>
-    <sub-title>Moștenirile vieții</sub-title>
-    <desc>Pentru toate speciile de pe Terra, dreptul de a se reproduce este scopul vieții. Transmiterea genelor către generația următoare este moștenirea oricărui animal. Nu e însă ușor. Poate fi greu să găsești un partener, apoi trebuie să te lupți eventual ca să ai acces la el. Doar cei mai puternici și cei mai hotărâți vor învinge în jocul reproducerii din Luangwa.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261115062000 +0000" stop="20261115071459 +0000" channel="LoveNature.ro">
-    <title>Natura dezlănțuită din Noua Zeelandă</title>
-    <sub-title>O poveste cu doi pinguini</sub-title>
-    <desc>La marginea apei se adună un grup de pinguini masculi curajoși, pregătindu-se pentru călătoria periculoasă pe uscat. Îi așteaptă multe pericole, unde-s mulți, puterea crește, iar acești mici pinguini au o misiune importantă. E vremea să se reproducă și trebuie să găsească o vizuină înainte de sosirea femelelor.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115071500 +0000" stop="20261115080959 +0000" channel="LoveNature.ro">
-    <title>Natura dezlănțuită din Noua Zeelandă</title>
-    <sub-title>Vestul neîmblânzit</sub-title>
-    <desc>Coasta vestică a Noii Zeelande e diferită de orice altă regiune de pe Terra. De la munții acoperiți cu ghețari la pădurile native inundade de ploi și la apele reci, învolburate, peisajul sfidează imaginația. Izolată de restul lumii, această fâșie de uscat, o sălbăticie aproape neatinsă, adăpostește o mulțime de animale endemice. Naufragiate sub aspect evolutiv, fiecare dintre ele este o comoară ecologică rară, de la papagalii alpini la pinguinii timizi, la kiwi asemănători cu mamiferele și la țipari străvechi. Pentru a supraviețui în condițiile de aici, animalele trebuie să fie rezistente, viclene și ingenioase. O călătorie de-a lungul coastei vestice dezvăluie frumusețea acestui teritoriu și greutățile cu care se confruntă fauna de aici.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20261115081000 +0000" stop="20261115090459 +0000" channel="LoveNature.ro">
-    <title>Natura dezlănțuită din Noua Zeelandă</title>
-    <sub-title>Fortăreața sălbatică</sub-title>
-    <desc>În Noua Zeelandă, două fortărețe sălbatice protejează animalele native vulnerabile: una se află pe o insulă îndepărtată, protejată de un șanț cu apă sărată, iar cealaltă este o citadelă de pe o culme, înconjurată de o barieră care ține prădătoarele la distanță. Aceasta este povestea refugiilor fragile și a făpturilor care prosperă în ele.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261115090500 +0000" stop="20261115095959 +0000" channel="LoveNature.ro">
-    <title>Natura dezlănțuită din Noua Zeelandă</title>
-    <sub-title>Moștenirea oceanelor</sub-title>
-    <desc>Primăvara de pe coasta estică a Noii Zeelande este o perioadă plină de promisiuni pentru otariile din Noua Zeelandă și albatrosul regal nordic. Se întorc pe teritoriile lor ca să se reproducă. Dar terenul dificil, vremea capricioasă și prădătoarele flămânde se vor reuni pentru a le îngreuna viața. Doar cei mai puternici vor supraviețui, pentru a-și duce moștenirea mai departe.</desc>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20261115100000 +0000" stop="20261115104959 +0000" channel="LoveNature.ro">
-    <title>Natura dezlănțuită din Noua Zeelandă</title>
-    <sub-title>Cele mai înfricoșătoare insecte</sub-title>
-    <desc>Insulele izolate ale Noii Zeelande sunt renumite drept un paradis neobișnuit, reședința unei diversități de viețuitoare unice. Renumite pentru păsările care nu zboară, pentru reptile străvechi și mamifere de coastă, o privire mai atentă dezvăluie o altă lume. O lume a monștrilor în miniatură, a prădătoarelor liliputane și a unor mici călăi care au o existență remarcabilă, unde orice vânător este la rândul său vânat, iar supraviețuirea este întotdeauna o luptă imensă. Călătoriți în lumea de sub coronament și descoperiți viața la altă scară. De la miriapode carnivore uriașe și greieri nocturni la păianjeni pescari și viermi fosforescenți cu capcane din mătase. Ciudați și minunați, acești eroi fără epopei sunt cele mai înfricoșătoare insecte din Noua Zeelandă.</desc>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-  <programme start="20261115105000 +0000" stop="20261115113959 +0000" channel="LoveNature.ro">
-    <title>Vară în Alaska</title>
-    <desc>Aproape 20 de ore de soare pe zi alimentează un sezon al abundenței. Căldura aduce apă din ghețari, din peșterile de gheață și cascade. Apa se rostogolește în nenumărate izvoare ale Pasajului Interior, hrănind pădurile și fauna sălbatică. Din iunie până în august, Alaska devine un paradis al faunei sălbatice.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115114000 +0000" stop="20261115123459 +0000" channel="LoveNature.ro">
-    <title>Animale salvate din Malawi</title>
-    <sub-title>Prinde-mă dacă poți</sub-title>
-    <desc>Amanda și Mandy încearcă să facă tot posibilul ca să ajute o hienă prinsă în capcană, un leu amenință un sat, iar planul echipei de a elibera o ceată de 13 maimuțe e zădărnicit de o operație pe ultima sută de metri și de niște specialiști în evadări iscusiți.</desc>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20261115123500 +0000" stop="20261115132959 +0000" channel="LoveNature.ro">
-    <title>Epave din recife</title>
-    <sub-title>Epavele din recifele din Bonair</sub-title>
-    <desc>Reciful franjurat din Bonaire găzduiește mii de specii de corali, pești și alte animale marine. Aici se află și o serie de epave uimitoare. Aceste epave evoluează în timp, devenind recife artificiale, care susțin un habitat marin incredibil de divers.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115133000 +0000" stop="20261115142459 +0000" channel="LoveNature.ro">
-    <title>Epave din recife</title>
-    <sub-title>Șirul de epave de la Florida Keys</sub-title>
-    <desc>Florida Keys e prima linie de apărare pentru sudul SUA. Având o istorie navală bogată și un stil de viață specific coastei, e ușor să-i credem pe localnicii care susțin că în aceste ape se află până la 1.000 de epave.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20261115142500 +0000" stop="20261115151959 +0000" channel="LoveNature.ro">
-    <title>Epave din recife</title>
-    <sub-title>Epave hollywoodiene din Bahamas</sub-title>
-    <desc>Bahamas e numită "capitala mondială a filmelor subacvatice". Cei de la Hollywood vin aici de zeci de ani, fac filme și emisiuni de televiziune senzaționale în apele limpezi ca cristalul, lăsând în urmă o mulțime de epave de domeniul cinematografiei.</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261115152000 +0000" stop="20261115161459 +0000" channel="LoveNature.ro">
-    <title>Epave din recife</title>
-    <sub-title>Epave din reciful din Roatan</sub-title>
-    <desc>Insula de pe coasta Hondurasului se evidențiază drept o stațiune de vacanță renumită. Nu doar soarele și nisipul atrag turiștii cu duiumul. E și paradisul scufundătorilor, fiindcă de jur împrejurul insulei sunt epave.</desc>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20261115161500 +0000" stop="20261115170959 +0000" channel="LoveNature.ro">
-    <title>Embleme ale faunei</title>
-    <sub-title>Echipa de curățenie</sub-title>
-    <desc>În fiecare zi, în Africa se dă o luptă pentru supraviețuire. Prădătoarele se înfruptă din leșuri, iar groparii naturii dau târcoale în văzduh, așteptând o șansă. Când cei puternici se prăbușesc, o armată întreagă coboară din aer ca devoreze resturile lăsate de alții, fiindcă și ei trebuie să-și hrănească familiile prețioase.</desc>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-  </programme>
-  <programme start="20261115171000 +0000" stop="20261115180459 +0000" channel="LoveNature.ro">
-    <title>Embleme ale faunei</title>
-    <sub-title>Broaște fantastice</sub-title>
-    <desc>Strămoșii lor au fost primele vertebrate care au colonizat uscatul și trăiesc pe toate continentele, cu excepția Antarcticii, însă lumea lor se schimbă repede. Douăzeci de specii locuiesc în acest oraș, însă fostele mlaștini sunt înlocuite acum de terenuri de joacă, terenuri de golf și piste de curse. Acesta este teritoriul pe care și-l revendică. În întreaga lume, populațiile de broaște scad, iar timpul trece în defavoarea lor.</desc>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-  </programme>
-  <programme start="20261115180500 +0000" stop="20261115185959 +0000" channel="LoveNature.ro">
-    <title>Embleme ale faunei</title>
-    <sub-title>Povestea elefanților</sub-title>
-    <desc>Cândva prezenți în număr mare pe continent, populația de elefanți a scăzut drastic, fiind vânați pentru fildeș și carne, în ultimii două secole. Totuși, mai există speranță pentru acești uriași blânzi, prin intermediul rezervațiilor dedicate conservării elefanților, precum Parcul Addo pentru Elefanți și Parcul Tembe pentru Elefanți, din Africa de Sud. Protejați de braconieri în interiorul parcurilor, numărul elefanților crește.</desc>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-  </programme>
-  <programme start="20261115190000 +0000" stop="20261115195459 +0000" channel="LoveNature.ro">
-    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
-    <sub-title>Bun-venit în tundră</sub-title>
-    <desc>Deșteptați-vă după hibernare împreună cu șapte urși hămesiți, la începutul Fazei I. Luptați contra lupilor împreună cu BoldFace și urmăriți zbaterea lui Stomper pentru putere, iubirea lui Blondie și bătălia veteranului Bernie cu tânărul Casanova.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115195500 +0000" stop="20261115204959 +0000" channel="LoveNature.ro">
-    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
-    <sub-title>La pescuit de somoni</sub-title>
-    <desc>Alăturați-vă iureșului din iulie pentru a profita de prezența somonilor cu câștigătorii Fazei I și câțiva recruți. Urmați-l pe BigBoi în căutarea hranei, întâmpinați-i pe QuadMom și pe RedBack la ospăț și vedeți dacă BoldFace își poate proteja puiul.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20261115205000 +0000" stop="20261115214459 +0000" channel="LoveNature.ro">
-    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
-    <sub-title>Adio și mulțumiri pentru toți peștii</sub-title>
-    <desc>Îmbrăcați-vă gros în acest octombrie înghețat ce complică competiția înainte de linia de sosire. Urmăriți-i pe BigBoi recuperând după o poticnire și pe QuadMom lovită de tragedie și încurajați-o pe favorita publicului, BoldFace. Cine va purta cununa?</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261115214500 +0000" stop="20261115223959 +0000" channel="LoveNature.ro">
-    <title>Atac ucigaș</title>
-    <desc>Minunați-vă de felul inteligent în care prădătorii folosesc șiretenia, agilitatea și viteza amețitoare în timp ce atacă. Iată cum unii își atrag prada iar alții se ascund la vedere, respectiv se folosesc de armamentul convențional sau de cel chimic.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261115224000 +0000" stop="20261115233459 +0000" channel="LoveNature.ro">
-    <title>Embleme ale faunei</title>
-    <sub-title>Echipa de curățenie</sub-title>
-    <desc>În fiecare zi, în Africa se dă o luptă pentru supraviețuire. Prădătoarele se înfruptă din leșuri, iar groparii naturii dau târcoale în văzduh, așteptând o șansă. Când cei puternici se prăbușesc, o armată întreagă coboară din aer ca devoreze resturile lăsate de alții, fiindcă și ei trebuie să-și hrănească familiile prețioase.</desc>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-  </programme>
-  <programme start="20261115233500 +0000" stop="20261116002459 +0000" channel="LoveNature.ro">
-    <title>Embleme ale faunei</title>
-    <sub-title>Broaște fantastice</sub-title>
-    <desc>Strămoșii lor au fost primele vertebrate care au colonizat uscatul și trăiesc pe toate continentele, cu excepția Antarcticii, însă lumea lor se schimbă repede. Douăzeci de specii locuiesc în acest oraș, însă fostele mlaștini sunt înlocuite acum de terenuri de joacă, terenuri de golf și piste de curse. Acesta este teritoriul pe care și-l revendică. În întreaga lume, populațiile de broaște scad, iar timpul trece în defavoarea lor.</desc>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-  </programme>
-  <programme start="20261116002500 +0000" stop="20261116011959 +0000" channel="LoveNature.ro">
-    <title>Embleme ale faunei</title>
-    <sub-title>Povestea elefanților</sub-title>
-    <desc>Cândva prezenți în număr mare pe continent, populația de elefanți a scăzut drastic, fiind vânați pentru fildeș și carne, în ultimii două secole. Totuși, mai există speranță pentru acești uriași blânzi, prin intermediul rezervațiilor dedicate conservării elefanților, precum Parcul Addo pentru Elefanți și Parcul Tembe pentru Elefanți, din Africa de Sud. Protejați de braconieri în interiorul parcurilor, numărul elefanților crește.</desc>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-  </programme>
-  <programme start="20261116012000 +0000" stop="20261116021459 +0000" channel="LoveNature.ro">
-    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
-    <sub-title>Bun-venit în tundră</sub-title>
-    <desc>Deșteptați-vă după hibernare împreună cu șapte urși hămesiți, la începutul Fazei I. Luptați contra lupilor împreună cu BoldFace și urmăriți zbaterea lui Stomper pentru putere, iubirea lui Blondie și bătălia veteranului Bernie cu tânărul Casanova.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20261116021500 +0000" stop="20261116030959 +0000" channel="LoveNature.ro">
-    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
-    <sub-title>La pescuit de somoni</sub-title>
-    <desc>Alăturați-vă iureșului din iulie pentru a profita de prezența somonilor cu câștigătorii Fazei I și câțiva recruți. Urmați-l pe BigBoi în căutarea hranei, întâmpinați-i pe QuadMom și pe RedBack la ospăț și vedeți dacă BoldFace își poate proteja puiul.</desc>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20261116031000 +0000" stop="20261116040459 +0000" channel="LoveNature.ro">
-    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
-    <sub-title>Adio și mulțumiri pentru toți peștii</sub-title>
-    <desc>Îmbrăcați-vă gros în acest octombrie înghețat ce complică competiția înainte de linia de sosire. Urmăriți-i pe BigBoi recuperând după o poticnire și pe QuadMom lovită de tragedie și încurajați-o pe favorita publicului, BoldFace. Cine va purta cununa?</desc>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20261116040500 +0000" stop="20261116045959 +0000" channel="LoveNature.ro">
-    <title>Atac ucigaș</title>
-    <desc>Minunați-vă de felul inteligent în care prădătorii folosesc șiretenia, agilitatea și viteza amețitoare în timp ce atacă. Iată cum unii își atrag prada iar alții se ascund la vedere, respectiv se folosesc de armamentul convențional sau de cel chimic.</desc>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
   <programme start="20261116050000 +0000" stop="20261116052459 +0000" channel="LoveNature.ro">
     <title>Misterele evoluției</title>
     <sub-title>Cap și gât</sub-title>
@@ -2309,6 +2187,168 @@
     <sub-title>Fapte fatale</sub-title>
     <desc>Folosește arme biochimice cu cei mai vicleni luptători ai naturii. Admiră mușcăturile veninoase ale dragonilor, rezistă inamicilor otrăvitori alături de clanurile de manguste și vezi păsările cu o forță zdrobitoare ce contracarează atacurile toxice.</desc>
     <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261117071500 +0000" stop="20261117080959 +0000" channel="LoveNature.ro">
+    <title>Feline mari: Nouă vieți</title>
+    <sub-title>Tigrii</sub-title>
+    <desc>Străbate pădurea cu un pui mic, vezi cum exemplarele tinere își revendică teritoriul și asistă la exilul vânătorilor îmbătrâniți. Vezi cum instinctul și discreția ajută tigrul să supraviețuiască în lumea sa solitară, unde orice decizie are riscuri.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261117081000 +0000" stop="20261117090459 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Coliziuni</sub-title>
+    <desc>Urmărește împreună cu Tim, proprietarii tradiționali și alți experți forțele naturale și umane care au modelat Reciful Ningaloo. Descoperă acest recif cu o vechime de un milion de ani, precum și un pește gigantic și o rază cu o forță impresionantă.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261117090500 +0000" stop="20261117095959 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Legături</sub-title>
+    <desc>Urmărește oamenii de știință și proprietarii tradiționali cum fac legăturile din punct de vedere ecologic și cum determină căile de migrație și legăturile dintre speciile care conservă biodiversitatea din Ningaloo. Joacă-te cu balenele, plutește printre insule de alge marine și vezi cum desființează arheologii mitul coloniștilor.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261117100000 +0000" stop="20261117104959 +0000" channel="LoveNature.ro">
+    <title>Brigada rechinilor</title>
+    <sub-title>Insula rechinului alb</sub-title>
+    <desc>Pe insula Guadalupe din Mexic, celebrul specialist în ecologie Mauricio Hoyos încearcă ceva ce nu s-a mai văzut la televizor. Vedem imagini unice după ce el atașează o cameră de aripioara dorsală a unui rechin alb, arătând cum acesta înoată, vânează și mai ales cum își atacă prada.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261117105000 +0000" stop="20261117113959 +0000" channel="LoveNature.ro">
+    <title>Povești din Zambia</title>
+    <sub-title>Ceata din pădure</sub-title>
+    <desc>În această mică zonă împădurită, două maimuțe tinere se confrută cu cea mai dificilă perioadă din viața lor. Trebuie să-și găsească locul în lume, să afle care vecini le sunt aliați și care dușmani. Vor pierde apropiați și vor câștiga prieteni, pe măsură ce vor afla ce înseamnă să faci parte din Ceata din pădure.</desc>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20261117114000 +0000" stop="20261117123459 +0000" channel="LoveNature.ro">
+    <title>Super bestia</title>
+    <sub-title>Super Simțuri</sub-title>
+    <desc>Privește cum crocodilii de apă sărată detectează cea mai mică mișcare cu ajutorul receptorilor sensibili la presiune, descoperă sistemul GPS intern al unui porumbel și folosește al șaptelea simț alături de delfini pentru a detecta prada.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20261117123500 +0000" stop="20261117132959 +0000" channel="LoveNature.ro">
+    <title>Super bestia</title>
+    <sub-title>Fapte fatale</sub-title>
+    <desc>Folosește arme biochimice cu cei mai vicleni luptători ai naturii. Admiră mușcăturile veninoase ale dragonilor, rezistă inamicilor otrăvitori alături de clanurile de manguste și vezi păsările cu o forță zdrobitoare ce contracarează atacurile toxice.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261117133000 +0000" stop="20261117142459 +0000" channel="LoveNature.ro">
+    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
+    <sub-title>Bun-venit în tundră</sub-title>
+    <desc>Deșteptați-vă după hibernare împreună cu șapte urși hămesiți, la începutul Fazei I. Luptați contra lupilor împreună cu BoldFace și urmăriți zbaterea lui Stomper pentru putere, iubirea lui Blondie și bătălia veteranului Bernie cu tânărul Casanova.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261117142500 +0000" stop="20261117151959 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Coliziuni</sub-title>
+    <desc>Urmărește împreună cu Tim, proprietarii tradiționali și alți experți forțele naturale și umane care au modelat Reciful Ningaloo. Descoperă acest recif cu o vechime de un milion de ani, precum și un pește gigantic și o rază cu o forță impresionantă.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261117152000 +0000" stop="20261117161459 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Legături</sub-title>
+    <desc>Urmărește oamenii de știință și proprietarii tradiționali cum fac legăturile din punct de vedere ecologic și cum determină căile de migrație și legăturile dintre speciile care conservă biodiversitatea din Ningaloo. Joacă-te cu balenele, plutește printre insule de alge marine și vezi cum desființează arheologii mitul coloniștilor.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261117161500 +0000" stop="20261117170959 +0000" channel="LoveNature.ro">
+    <title>Brigada rechinilor</title>
+    <sub-title>Insula rechinului alb</sub-title>
+    <desc>Pe insula Guadalupe din Mexic, celebrul specialist în ecologie Mauricio Hoyos încearcă ceva ce nu s-a mai văzut la televizor. Vedem imagini unice după ce el atașează o cameră de aripioara dorsală a unui rechin alb, arătând cum acesta înoată, vânează și mai ales cum își atacă prada.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261117171000 +0000" stop="20261117180459 +0000" channel="LoveNature.ro">
+    <title>Povești din Zambia</title>
+    <sub-title>Ceata din pădure</sub-title>
+    <desc>În această mică zonă împădurită, două maimuțe tinere se confrută cu cea mai dificilă perioadă din viața lor. Trebuie să-și găsească locul în lume, să afle care vecini le sunt aliați și care dușmani. Vor pierde apropiați și vor câștiga prieteni, pe măsură ce vor afla ce înseamnă să faci parte din Ceata din pădure.</desc>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20261117180500 +0000" stop="20261117185959 +0000" channel="LoveNature.ro">
+    <title>Super bestia</title>
+    <sub-title>Super Simțuri</sub-title>
+    <desc>Privește cum crocodilii de apă sărată detectează cea mai mică mișcare cu ajutorul receptorilor sensibili la presiune, descoperă sistemul GPS intern al unui porumbel și folosește al șaptelea simț alături de delfini pentru a detecta prada.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20261117190000 +0000" stop="20261117195459 +0000" channel="LoveNature.ro">
+    <title>Super bestia</title>
+    <sub-title>Fapte fatale</sub-title>
+    <desc>Folosește arme biochimice cu cei mai vicleni luptători ai naturii. Admiră mușcăturile veninoase ale dragonilor, rezistă inamicilor otrăvitori alături de clanurile de manguste și vezi păsările cu o forță zdrobitoare ce contracarează atacurile toxice.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261117195500 +0000" stop="20261117204959 +0000" channel="LoveNature.ro">
+    <title>Feline mari: Nouă vieți</title>
+    <sub-title>Tigrii</sub-title>
+    <desc>Străbate pădurea cu un pui mic, vezi cum exemplarele tinere își revendică teritoriul și asistă la exilul vânătorilor îmbătrâniți. Vezi cum instinctul și discreția ajută tigrul să supraviețuiască în lumea sa solitară, unde orice decizie are riscuri.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261117205000 +0000" stop="20261117214459 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Coliziuni</sub-title>
+    <desc>Urmărește împreună cu Tim, proprietarii tradiționali și alți experți forțele naturale și umane care au modelat Reciful Ningaloo. Descoperă acest recif cu o vechime de un milion de ani, precum și un pește gigantic și o rază cu o forță impresionantă.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261117214500 +0000" stop="20261117223959 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Legături</sub-title>
+    <desc>Urmărește oamenii de știință și proprietarii tradiționali cum fac legăturile din punct de vedere ecologic și cum determină căile de migrație și legăturile dintre speciile care conservă biodiversitatea din Ningaloo. Joacă-te cu balenele, plutește printre insule de alge marine și vezi cum desființează arheologii mitul coloniștilor.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261117224000 +0000" stop="20261117233459 +0000" channel="LoveNature.ro">
+    <title>Brigada rechinilor</title>
+    <sub-title>Insula rechinului alb</sub-title>
+    <desc>Pe insula Guadalupe din Mexic, celebrul specialist în ecologie Mauricio Hoyos încearcă ceva ce nu s-a mai văzut la televizor. Vedem imagini unice după ce el atașează o cameră de aripioara dorsală a unui rechin alb, arătând cum acesta înoată, vânează și mai ales cum își atacă prada.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261117233500 +0000" stop="20261118002459 +0000" channel="LoveNature.ro">
+    <title>Povești din Zambia</title>
+    <sub-title>Ceata din pădure</sub-title>
+    <desc>În această mică zonă împădurită, două maimuțe tinere se confrută cu cea mai dificilă perioadă din viața lor. Trebuie să-și găsească locul în lume, să afle care vecini le sunt aliați și care dușmani. Vor pierde apropiați și vor câștiga prieteni, pe măsură ce vor afla ce înseamnă să faci parte din Ceata din pădure.</desc>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20261118002500 +0000" stop="20261118011959 +0000" channel="LoveNature.ro">
+    <title>Super bestia</title>
+    <sub-title>Super Simțuri</sub-title>
+    <desc>Privește cum crocodilii de apă sărată detectează cea mai mică mișcare cu ajutorul receptorilor sensibili la presiune, descoperă sistemul GPS intern al unui porumbel și folosește al șaptelea simț alături de delfini pentru a detecta prada.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20261118012000 +0000" stop="20261118021459 +0000" channel="LoveNature.ro">
+    <title>Super bestia</title>
+    <sub-title>Fapte fatale</sub-title>
+    <desc>Folosește arme biochimice cu cei mai vicleni luptători ai naturii. Admiră mușcăturile veninoase ale dragonilor, rezistă inamicilor otrăvitori alături de clanurile de manguste și vezi păsările cu o forță zdrobitoare ce contracarează atacurile toxice.</desc>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20261118021500 +0000" stop="20261118030959 +0000" channel="LoveNature.ro">
+    <title>Jocurile înfometaților: marea competiție a urșilor din Alaska</title>
+    <sub-title>Bun-venit în tundră</sub-title>
+    <desc>Deșteptați-vă după hibernare împreună cu șapte urși hămesiți, la începutul Fazei I. Luptați contra lupilor împreună cu BoldFace și urmăriți zbaterea lui Stomper pentru putere, iubirea lui Blondie și bătălia veteranului Bernie cu tânărul Casanova.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261118031000 +0000" stop="20261118040459 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Coliziuni</sub-title>
+    <desc>Urmărește împreună cu Tim, proprietarii tradiționali și alți experți forțele naturale și umane care au modelat Reciful Ningaloo. Descoperă acest recif cu o vechime de un milion de ani, precum și un pește gigantic și o rază cu o forță impresionantă.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261118040500 +0000" stop="20261118045959 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Legături</sub-title>
+    <desc>Urmărește oamenii de știință și proprietarii tradiționali cum fac legăturile din punct de vedere ecologic și cum determină căile de migrație și legăturile dintre speciile care conservă biodiversitatea din Ningaloo. Joacă-te cu balenele, plutește printre insule de alge marine și vezi cum desființează arheologii mitul coloniștilor.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20261118050000 +0000" stop="20261118052459 +0000" channel="LoveNature.ro">
+    <title>Misterele evoluției</title>
+    <sub-title>Interior</sub-title>
+    <desc>Unele dintre cele mai interesante adaptări din lumea animală sunt complet invizibile. Studiați aceste modificări interne, ascunse, pentru a vedea cât de diferit au evoluat animalele pentru a supraviețui în moduri atât de uimitoare și nemaiîntâlnite.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20261118052500 +0000" stop="20261118061959 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Coliziuni</sub-title>
+    <desc>Urmărește împreună cu Tim, proprietarii tradiționali și alți experți forțele naturale și umane care au modelat Reciful Ningaloo. Descoperă acest recif cu o vechime de un milion de ani, precum și un pește gigantic și o rază cu o forță impresionantă.</desc>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20261118062000 +0000" stop="20261118071459 +0000" channel="LoveNature.ro">
+    <title>Ningaloo: minunea din oceanul australian</title>
+    <sub-title>Legături</sub-title>
+    <desc>Urmărește oamenii de știință și proprietarii tradiționali cum fac legăturile din punct de vedere ecologic și cum determină căile de migrație și legăturile dintre speciile care conservă biodiversitatea din Ningaloo. Joacă-te cu balenele, plutește printre insule de alge marine și vezi cum desființează arheologii mitul coloniștilor.</desc>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20261114082800 +0000" stop="20261114085500 +0000" channel="ProSieben.de">
     <title>The Neighborhood</title>
@@ -3150,70 +3190,6 @@
     <title>Auction Hunters - Zwei Asse machen Kasse</title>
     <desc>S2 E14 — Große MaschinenDie Auktionäre finden einen Bobcat 743, der als eines der ersten Fahrzeuge seiner Art gilt.</desc>
   </programme>
-  <programme start="20261115050000 +0000" stop="20261115075959 +0000" channel="ProTV.ro">
-    <title>Ştirile Pro Tv</title>
-    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
-  </programme>
-  <programme start="20261115080000 +0000" stop="20261115082959 +0000" channel="ProTV.ro">
-    <title>Doctor de bine</title>
-    <desc>Urmărește emisiunea Doctor de bine și află tot ce trebuie să știi despre diverse afecțiuni medicale și tratamente inovatoare. Specialiștii invitați la Doctor de bine oferă sfaturi despre nutriție, cum putem fi mai sănătoși și cum putem avea un stil de viață echilibrat.</desc>
-  </programme>
-  <programme start="20261115083000 +0000" stop="20261115085959 +0000" channel="ProTV.ro">
-    <title>Umami: al 5-lea gust</title>
-    <desc>Urmărește show-ul de cooking „Umami: al 5-lea gust” și află cum să-ți îmbunătățești arta de a găti preparate delicioase. Show-ul de cooking „Umami: al 5-lea gust” îți va dezvălui secretele pentru un gust unic și memorabil.</desc>
-  </programme>
-  <programme start="20261115090000 +0000" stop="20261115105959 +0000" channel="ProTV.ro">
-    <title>Dennis, pericol public</title>
-    <desc>O excelentă comedie, capabilă să bine-dispună chiar şi pe cel mai morocănos dintre noi. Mai ales că rolul principal e deţinut de Walter Matthau, iar Mason Gamble e încântător în rolul puştiului care îi întoarce bătrânului existenţa cu susu-n jos.</desc>
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115115959 +0000" channel="ProTV.ro">
-    <title>Apropo Tv</title>
-    <desc>Voie bună. În limita stocului disponibil.</desc>
-  </programme>
-  <programme start="20261115120000 +0000" stop="20261115141459 +0000" channel="ProTV.ro">
-    <title>Dragoste cu preaviz</title>
-    <desc>Sandra Bullock este Lucy Kelson, o tanara isteata care lucreaza ca avocata la o mare firma imobiliara din New York. Dupa cinci ani de "slugareala" pentru seful ei George Wade, in care a avut grija de toate cele pentru el, decide sa-si dea demisia.</desc>
-  </programme>
-  <programme start="20261115141500 +0000" stop="20261115155959 +0000" channel="ProTV.ro">
-    <title>Călătoria 2: Insula misterioasă</title>
-    <desc>Descurcăreţul Sean are parte de o nouă aventură când porneşte în căutarea bunicului său, eşuat pe legendara insulă misterioasă din romanele lui Jules Verne. Însoţit de prietenul mamei sale, Sean va ajunge pe insulă.</desc>
-  </programme>
-  <programme start="20261115160000 +0000" stop="20261115165959 +0000" channel="ProTV.ro">
-    <title>România, te iubesc!</title>
-    <desc>Jurnaliștii din echipa „România, te iubesc!” aduc în fața publicului larg anchete, reportaje și investigații amănunțite despre situațiile cu care se confruntă România în prezent. Emisiunea a reușit astfel să scoată la suprafață probleme ascunse pentru care s-au cerut soluții la autoritățile competente și a contribuit la înființarea instituțiilor salvatoare de vieți.</desc>
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115175959 +0000" channel="ProTV.ro">
-    <title>Ştirile Pro Tv</title>
-    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115204459 +0000" channel="ProTV.ro">
-    <title>Gladiatorul II</title>
-    <desc>După ce patria sa este cucerită de împărații tiranici care conduc acum Roma, Lucius este forțat să intre în Colosseum și trebuie să se întoarcă în trecut pentru a-și găsi puterea de a reda gloria Romei poporului său.</desc>
-  </programme>
-  <programme start="20261115204500 +0000" stop="20261115235959 +0000" channel="ProTV.ro">
-    <title>Oppenheimer</title>
-    <desc>Oppenheimer este un thriller epic care ne aruncă în paradoxul palpitant al omului care trebuie să riște să distrugă lumea pentru a o salva. Filmul spune povestea fizicianului Oppenheimer și a rolului pe care l-a avut în dezvoltarea bombei atomice.</desc>
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116005959 +0000" channel="ProTV.ro">
-    <title>Apropo Tv</title>
-    <desc>Voie bună. În limita stocului disponibil.</desc>
-  </programme>
-  <programme start="20261116010000 +0000" stop="20261116022959 +0000" channel="ProTV.ro">
-    <title>Călătoria 2: Insula misterioasă</title>
-    <desc>Descurcăreţul Sean are parte de o nouă aventură când porneşte în căutarea bunicului său, eşuat pe legendara insulă misterioasă din romanele lui Jules Verne. Însoţit de prietenul mamei sale, Sean va ajunge pe insulă.</desc>
-  </programme>
-  <programme start="20261116023000 +0000" stop="20261116025959 +0000" channel="ProTV.ro">
-    <title>Umami: al 5-lea gust</title>
-    <desc>Urmărește show-ul de cooking „Umami: al 5-lea gust” și află cum să-ți îmbunătățești arta de a găti preparate delicioase. Show-ul de cooking „Umami: al 5-lea gust” îți va dezvălui secretele pentru un gust unic și memorabil.</desc>
-  </programme>
-  <programme start="20261116030000 +0000" stop="20261116035959 +0000" channel="ProTV.ro">
-    <title>Batem palma?</title>
-    <desc>PRO TV prezintă un format care testează norocul și intuiția concurenților. Emisiunea Batem Palma? îl are ca prezentator pe îndrăgitul om de televiziune, Cosmin Seleși. Scopul fiecărei ediții este ca un concurent să plece acasă cu o sumă cât mai mare, deschizând pe parcurs 24 de cutii misterioase existente în joc. Sumele variază și în funcție de prestația concurentului pe parcusul showului. Un alt element surpriză este banca. Parcursul unui concurent se încheie în momentul în care acesta alege să bată palma și acceptă una dintre ofertele băncii.</desc>
-  </programme>
-  <programme start="20261116040000 +0000" stop="20261116045959 +0000" channel="ProTV.ro">
-    <title>Ştirile Pro Tv</title>
-    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
-  </programme>
   <programme start="20261116050000 +0000" stop="20261116082959 +0000" channel="ProTV.ro">
     <title>Ştirile Pro Tv</title>
     <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
@@ -3286,103 +3262,67 @@
     <title>Ştirile Pro Tv</title>
     <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
   </programme>
-  <programme start="20261115050000 +0000" stop="20261115075959 +0000" channel="ProTVInternational.ro">
-    <title>Ştirile Pro Tv</title>
-    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
-  </programme>
-  <programme start="20261115080000 +0000" stop="20261115082959 +0000" channel="ProTVInternational.ro">
-    <title>Doctor de bine</title>
-    <desc>Urmărește emisiunea Doctor de bine și află tot ce trebuie să știi despre diverse afecțiuni medicale și tratamente inovatoare. Specialiștii invitați la Doctor de bine oferă sfaturi despre nutriție, cum putem fi mai sănătoși și cum putem avea un stil de viață echilibrat.</desc>
-  </programme>
-  <programme start="20261115083000 +0000" stop="20261115085959 +0000" channel="ProTVInternational.ro">
-    <title>Umami: al 5-lea gust</title>
-    <desc>Urmărește show-ul de cooking „Umami: al 5-lea gust” și află cum să-ți îmbunătățești arta de a găti preparate delicioase. Show-ul de cooking „Umami: al 5-lea gust” îți va dezvălui secretele pentru un gust unic și memorabil.</desc>
-  </programme>
-  <programme start="20261115090000 +0000" stop="20261115102959 +0000" channel="ProTVInternational.ro">
-    <title>Lecţii de viaţă</title>
-    <desc>O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.</desc>
-  </programme>
-  <programme start="20261115103000 +0000" stop="20261115105959 +0000" channel="ProTVInternational.ro">
-    <title>Superspeed</title>
-    <desc>Emisiunea Superspeed aduce cele mai noi informații din domeniul auto, te pune la curent cu detaliile tehnice la care trebuie să fii atent când vrei să-ți achiziționezi o mașină și prezintă cele mai noi modele de automobile de pe piață.</desc>
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115112959 +0000" channel="ProTVInternational.ro">
-    <title>I Like IT</title>
-    <desc>Emisiunea I like IT îți aduce cele mai noi informații din domeniul tehnologiei și al internetului. Evenimentele din online, gadgeturi inovatoare, social media, aplicații, toate aceste subiecte vor fi abordate în edițiile I like IT.</desc>
-  </programme>
-  <programme start="20261115113000 +0000" stop="20261115121459 +0000" channel="ProTVInternational.ro">
-    <title>Apropo Tv</title>
-    <desc>Voie bună. În limita stocului disponibil.</desc>
-  </programme>
-  <programme start="20261115121500 +0000" stop="20261115122959 +0000" channel="ProTVInternational.ro">
-    <title>Teleshopping</title>
-  </programme>
-  <programme start="20261115123000 +0000" stop="20261115131459 +0000" channel="ProTVInternational.ro">
-    <title>Lecţii de viaţă</title>
-    <desc>O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.</desc>
-  </programme>
-  <programme start="20261115131500 +0000" stop="20261115151459 +0000" channel="ProTVInternational.ro">
+  <programme start="20261117083000 +0000" stop="20261117105959 +0000" channel="ProTV.ro">
     <title>Vorbeşte lumea</title>
     <desc>Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.</desc>
   </programme>
-  <programme start="20261115151500 +0000" stop="20261115155959 +0000" channel="ProTVInternational.ro">
-    <title>Ce spun românii</title>
-    <desc>Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.</desc>
-  </programme>
-  <programme start="20261115160000 +0000" stop="20261115165959 +0000" channel="ProTVInternational.ro">
-    <title>România, te iubesc!</title>
-    <desc>Jurnaliștii din echipa „România, te iubesc!” aduc în fața publicului larg anchete, reportaje și investigații amănunțite despre situațiile cu care se confruntă România în prezent. Emisiunea a reușit astfel să scoată la suprafață probleme ascunse pentru care s-au cerut soluții la autoritățile competente și a contribuit la înființarea instituțiilor salvatoare de vieți.</desc>
-  </programme>
-  <programme start="20261115170000 +0000" stop="20261115175959 +0000" channel="ProTVInternational.ro">
+  <programme start="20261117110000 +0000" stop="20261117115959 +0000" channel="ProTV.ro">
     <title>Ştirile Pro Tv</title>
     <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
   </programme>
-  <programme start="20261115180000 +0000" stop="20261115182959 +0000" channel="ProTVInternational.ro">
-    <title>Superspeed</title>
-    <desc>Emisiunea Superspeed aduce cele mai noi informații din domeniul auto, te pune la curent cu detaliile tehnice la care trebuie să fii atent când vrei să-ți achiziționezi o mașină și prezintă cele mai noi modele de automobile de pe piață.</desc>
+  <programme start="20261117120000 +0000" stop="20261117125959 +0000" channel="ProTV.ro">
+    <title>La marginea lumii</title>
+    <desc>Serialul explorează limitele supraviețuirii și forța unei femei care refuză să fie victima circumstanțelor.</desc>
   </programme>
-  <programme start="20261115183000 +0000" stop="20261115195959 +0000" channel="ProTVInternational.ro">
-    <title>Inimă de țigan</title>
+  <programme start="20261117130000 +0000" stop="20261117135959 +0000" channel="ProTV.ro">
+    <title>Fata din vis</title>
+    <desc>Viața lui Eșref Tek, unul dintre cei mai influenți membri ai organizației criminale „Orfanii”, este dominată de o singură obsesie: găsirea fetei de care s-a îndrăgostit în adolescență și pe care a numit-o, în imaginația sa, Rüya - „Vis”.</desc>
   </programme>
-  <programme start="20261115200000 +0000" stop="20261115204459 +0000" channel="ProTVInternational.ro">
-    <title>Brigada Nimic</title>
-    <desc>O gașcă de polițiști neadaptați lucrează împreună nu pentru a rezolva cazuri, ci pentru a le ține departe de ei. Într-un mod surprinzător, brigada reușește întotdeauna să le dea de cap.</desc>
-  </programme>
-  <programme start="20261115204500 +0000" stop="20261115212959 +0000" channel="ProTVInternational.ro">
+  <programme start="20261117140000 +0000" stop="20261117145959 +0000" channel="ProTV.ro">
     <title>Lecţii de viaţă</title>
     <desc>O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.</desc>
   </programme>
-  <programme start="20261115213000 +0000" stop="20261115221459 +0000" channel="ProTVInternational.ro">
-    <title>Apropo Tv</title>
-    <desc>Voie bună. În limita stocului disponibil.</desc>
-  </programme>
-  <programme start="20261115221500 +0000" stop="20261115224459 +0000" channel="ProTVInternational.ro">
-    <title>Teleshopping</title>
-  </programme>
-  <programme start="20261115224500 +0000" stop="20261115231459 +0000" channel="ProTVInternational.ro">
-    <title>Umami: al 5-lea gust</title>
-    <desc>Urmărește show-ul de cooking „Umami: al 5-lea gust” și află cum să-ți îmbunătățești arta de a găti preparate delicioase. Show-ul de cooking „Umami: al 5-lea gust” îți va dezvălui secretele pentru un gust unic și memorabil.</desc>
-  </programme>
-  <programme start="20261115231500 +0000" stop="20261115235959 +0000" channel="ProTVInternational.ro">
-    <title>România, te iubesc!</title>
-    <desc>Jurnaliștii din echipa „România, te iubesc!” aduc în fața publicului larg anchete, reportaje și investigații amănunțite despre situațiile cu care se confruntă România în prezent. Emisiunea a reușit astfel să scoată la suprafață probleme ascunse pentru care s-au cerut soluții la autoritățile competente și a contribuit la înființarea instituțiilor salvatoare de vieți.</desc>
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116005959 +0000" channel="ProTVInternational.ro">
+  <programme start="20261117150000 +0000" stop="20261117155959 +0000" channel="ProTV.ro">
     <title>Ştirile Pro Tv</title>
     <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
   </programme>
-  <programme start="20261116010000 +0000" stop="20261116021459 +0000" channel="ProTVInternational.ro">
-    <title>Inimă de țigan</title>
+  <programme start="20261117160000 +0000" stop="20261117165959 +0000" channel="ProTV.ro">
+    <title>Batem palma?</title>
+    <desc>PRO TV prezintă un format care testează norocul și intuiția concurenților. Emisiunea Batem Palma? îl are ca prezentator pe îndrăgitul om de televiziune, Cosmin Seleși. Scopul fiecărei ediții este ca un concurent să plece acasă cu o sumă cât mai mare, deschizând pe parcurs 24 de cutii misterioase existente în joc. Sumele variază și în funcție de prestația concurentului pe parcusul showului. Un alt element surpriză este banca. Parcursul unui concurent se încheie în momentul în care acesta alege să bată palma și acceptă una dintre ofertele băncii.</desc>
   </programme>
-  <programme start="20261116021500 +0000" stop="20261116025959 +0000" channel="ProTVInternational.ro">
-    <title>Brigada Nimic</title>
-    <desc>O gașcă de polițiști neadaptați lucrează împreună nu pentru a rezolva cazuri, ci pentru a le ține departe de ei. Într-un mod surprinzător, brigada reușește întotdeauna să le dea de cap.</desc>
+  <programme start="20261117170000 +0000" stop="20261117182959 +0000" channel="ProTV.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
   </programme>
-  <programme start="20261116030000 +0000" stop="20261116035959 +0000" channel="ProTVInternational.ro">
+  <programme start="20261117183000 +0000" stop="20261117212959 +0000" channel="ProTV.ro">
+    <title>Masterchef</title>
+    <desc>Ti-e foame de succes? Prinde gustul competitiei!"MasterChef" este cel mai spectaculos show de cooking din intreaga lume si un format international de succes, care face deliciul telespectatorilor si schimba vietile participantilor.</desc>
+  </programme>
+  <programme start="20261117213000 +0000" stop="20261117215959 +0000" channel="ProTV.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261117220000 +0000" stop="20261117235959 +0000" channel="ProTV.ro">
+    <title>Transporter: Moștenirea</title>
+    <desc>Frank este transportatorul cu cea mai înaltă calificare pe care banii îl pot cumpăra. Mizele sunt mai mari şi tehnologia mai performantă, dar se aplică aceleaşi trei reguli simple: nu schimba niciodată afacerea, nu cere nume şi nu deschide pachetul</desc>
+  </programme>
+  <programme start="20261118000000 +0000" stop="20261118005959 +0000" channel="ProTV.ro">
     <title>Lecţii de viaţă</title>
     <desc>O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.</desc>
   </programme>
-  <programme start="20261116040000 +0000" stop="20261116045959 +0000" channel="ProTVInternational.ro">
+  <programme start="20261118010000 +0000" stop="20261118025959 +0000" channel="ProTV.ro">
+    <title>Vorbeşte lumea</title>
+    <desc>Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.</desc>
+  </programme>
+  <programme start="20261118030000 +0000" stop="20261118035959 +0000" channel="ProTV.ro">
+    <title>Batem palma?</title>
+    <desc>PRO TV prezintă un format care testează norocul și intuiția concurenților. Emisiunea Batem Palma? îl are ca prezentator pe îndrăgitul om de televiziune, Cosmin Seleși. Scopul fiecărei ediții este ca un concurent să plece acasă cu o sumă cât mai mare, deschizând pe parcurs 24 de cutii misterioase existente în joc. Sumele variază și în funcție de prestația concurentului pe parcusul showului. Un alt element surpriză este banca. Parcursul unui concurent se încheie în momentul în care acesta alege să bată palma și acceptă una dintre ofertele băncii.</desc>
+  </programme>
+  <programme start="20261118040000 +0000" stop="20261118045959 +0000" channel="ProTV.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261118050000 +0000" stop="20261118082959 +0000" channel="ProTV.ro">
     <title>Ştirile Pro Tv</title>
     <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
   </programme>
@@ -3473,6 +3413,94 @@
     <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
   </programme>
   <programme start="20261117050000 +0000" stop="20261117082959 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261117083000 +0000" stop="20261117105959 +0000" channel="ProTVInternational.ro">
+    <title>Vorbeşte lumea</title>
+    <desc>Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.</desc>
+  </programme>
+  <programme start="20261117110000 +0000" stop="20261117115959 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261117120000 +0000" stop="20261117121459 +0000" channel="ProTVInternational.ro">
+    <title>Teleshopping</title>
+  </programme>
+  <programme start="20261117121500 +0000" stop="20261117125959 +0000" channel="ProTVInternational.ro">
+    <title>Ce spun românii</title>
+    <desc>Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.</desc>
+  </programme>
+  <programme start="20261117130000 +0000" stop="20261117132959 +0000" channel="ProTVInternational.ro">
+    <title>Umami: al 5-lea gust</title>
+    <desc>Urmărește show-ul de cooking „Umami: al 5-lea gust” și află cum să-ți îmbunătățești arta de a găti preparate delicioase. Show-ul de cooking „Umami: al 5-lea gust” îți va dezvălui secretele pentru un gust unic și memorabil.</desc>
+  </programme>
+  <programme start="20261117133000 +0000" stop="20261117135959 +0000" channel="ProTVInternational.ro">
+    <title>Doctor de bine</title>
+    <desc>Urmărește emisiunea Doctor de bine și află tot ce trebuie să știi despre diverse afecțiuni medicale și tratamente inovatoare. Specialiștii invitați la Doctor de bine oferă sfaturi despre nutriție, cum putem fi mai sănătoși și cum putem avea un stil de viață echilibrat.</desc>
+  </programme>
+  <programme start="20261117140000 +0000" stop="20261117145959 +0000" channel="ProTVInternational.ro">
+    <title>Lecţii de viaţă</title>
+    <desc>O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.</desc>
+  </programme>
+  <programme start="20261117150000 +0000" stop="20261117155959 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261117160000 +0000" stop="20261117165959 +0000" channel="ProTVInternational.ro">
+    <title>Ce spun românii</title>
+    <desc>Emisiune de tip concurs, inspirată după formatul american de succes "Family Feud", în care două echipe se luptă în șase runde de întrebări, pentru marele premiu.</desc>
+  </programme>
+  <programme start="20261117170000 +0000" stop="20261117182959 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261117183000 +0000" stop="20261117194459 +0000" channel="ProTVInternational.ro">
+    <title>Inimă de țigan</title>
+  </programme>
+  <programme start="20261117194500 +0000" stop="20261117202959 +0000" channel="ProTVInternational.ro">
+    <title>Lecţii de viaţă</title>
+    <desc>O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.</desc>
+  </programme>
+  <programme start="20261117203000 +0000" stop="20261117205959 +0000" channel="ProTVInternational.ro">
+    <title>La bloc</title>
+    <desc>De-a lungul celor 16 ani de căsnicie, Suzi şi Nelu adunaseră ceva bănuţi şi îşi doreau o viaţă nouă într-o locuinţă nouă. Aşa că, împreună cu fiica lor, aceştia se mută într-un nou apartament, recomandat de prietenul lui Nelu, Costel Jurcă.</desc>
+  </programme>
+  <programme start="20261117210000 +0000" stop="20261117212959 +0000" channel="ProTVInternational.ro">
+    <title>Teleshopping</title>
+  </programme>
+  <programme start="20261117213000 +0000" stop="20261117215959 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261117220000 +0000" stop="20261117235959 +0000" channel="ProTVInternational.ro">
+    <title>Vorbeşte lumea</title>
+    <desc>Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.</desc>
+  </programme>
+  <programme start="20261118000000 +0000" stop="20261118005959 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261118010000 +0000" stop="20261118021459 +0000" channel="ProTVInternational.ro">
+    <title>Inimă de țigan</title>
+  </programme>
+  <programme start="20261118021500 +0000" stop="20261118024459 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261118024500 +0000" stop="20261118031459 +0000" channel="ProTVInternational.ro">
+    <title>La bloc</title>
+    <desc>De-a lungul celor 16 ani de căsnicie, Suzi şi Nelu adunaseră ceva bănuţi şi îşi doreau o viaţă nouă într-o locuinţă nouă. Aşa că, împreună cu fiica lor, aceştia se mută într-un nou apartament, recomandat de prietenul lui Nelu, Costel Jurcă.</desc>
+  </programme>
+  <programme start="20261118031500 +0000" stop="20261118035959 +0000" channel="ProTVInternational.ro">
+    <title>Lecţii de viaţă</title>
+    <desc>O emisiune care prezintă diverse situații inspirate din viața reală a familiilor, în care se va pune accent pe povești de iubire, dorință, lăcomie, minciună sau violență. Fiecare episod va ilustra probleme și întâmplări des întâlnite în viața cotidiană. Acest program este o ficțiune.</desc>
+  </programme>
+  <programme start="20261118040000 +0000" stop="20261118045959 +0000" channel="ProTVInternational.ro">
+    <title>Ştirile Pro Tv</title>
+    <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
+  </programme>
+  <programme start="20261118050000 +0000" stop="20261118082959 +0000" channel="ProTVInternational.ro">
     <title>Ştirile Pro Tv</title>
     <desc>Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
   </programme>
